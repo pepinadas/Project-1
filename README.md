@@ -1,2 +1,5 @@
-# imaja-webpage
-This is Just the principal web page of Imaja
+# Project 1
+Web Aplication to remmember things and make periodic reminders
+```
+
+```
